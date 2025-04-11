@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1744330982851",
+    "text": "Assistir uma palestra sobre tecnologia",
+    "completed": true
+  },
+  {
+    "id": "1744330964994",
+    "text": "Comprar mantimentos para a semana",
+    "completed": false
+  },
+  {
+    "id": "1744330960683",
+    "text": "Ir à academia",
+    "completed": true
+  },
+  {
+    "id": "1744330957330",
+    "text": "Praticar 30 minutos de inglês",
+    "completed": false
+  },
+  {
+    "id": "1744330952676",
+    "text": "Fazer backup das fotos no Google Drive",
+    "completed": true
+  },
+  {
+    "id": "1744330948531",
+    "text": "Ler 20 páginas de um livro",
+    "completed": false
+  },
+  {
+    "id": "1744330945164",
+    "text": "Atualizar o currículo no LinkedIn",
+    "completed": true
+  },
+  {
+    "id": "1744330939579",
+    "text": "Organizar arquivos do computador",
+    "completed": false
+  }
+]
